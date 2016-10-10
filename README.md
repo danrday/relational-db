@@ -1,3 +1,3 @@
 # relational-db ERD exercise
 
-![ERD](/relative/path/to/NorthWind.pdf?raw=true "ERD")
+![ERD](/relative/path/to/NorthWind.png?raw=true "ERD")
